@@ -1,6 +1,6 @@
 # ESP32-Based Predictive Motor Maintenance
 
-**Project Name:** ESP32-Based Predictive Motor Maintenance
+**Project Name:** ESP32-Based Predictive Motor Maintenance  
 **Domain:** Embedded Systems and Internet of Things (IoT)  
 **Platform:** ESP32  
 **Programming Language:** Embedded C/C++  
@@ -80,7 +80,7 @@ The simulation generates illustrative vibration, temperature and RPM values.
 - 1.0 to below 2.0: WARNING
 - 2.0 and above: CRITICAL
 
-The values are simulated and are not actual sensor measurements.
+**Note:** The values are simulated and are not actual sensor measurements.
 
 ## 8. Running the Project
 
@@ -91,8 +91,8 @@ The values are simulated and are not actual sensor measurements.
 5. Connect the ESP32 through USB.
 6. Upload the firmware.
 7. Open Serial Monitor.
-8. Set the baud rate to 115200.
-9. Enter commands 1, 2, 3 or 4 to select a motor condition.
+8. Set the baud rate to `115200`.
+9. Enter commands `1`, `2`, `3` or `4` to select a motor condition.
 
 ## 9. Future Enhancements
 
@@ -106,9 +106,9 @@ The values are simulated and are not actual sensor measurements.
 
 ## 10. Project Team
 
-- Mohammad Reyhan
-- Syed Mohammed Faizan
-- Amaan Pasha Shaikh
+- **Mohammad Reyhan**
+- **Syed Mohammed Faizan**
+- **Amaan Pasha Shaikh**
 
 **Institution:** Koneru Lakshmaiah Education Foundation  
 **Course:** Embedded Systems (25EC2206E)
@@ -139,7 +139,6 @@ It illustrates the proposed integration of:
 
 ---
 
-**ESP32-Based Predictive Motor Maintenance
+## ESP32-Based Predictive Motor Maintenance
 
-*Vibration analysis and anomaly detection for a low-cost embedded IoT
-solution.*
+**Vibration Analysis and Anomaly Detection for a Low-Cost Embedded IoT Solution.**
