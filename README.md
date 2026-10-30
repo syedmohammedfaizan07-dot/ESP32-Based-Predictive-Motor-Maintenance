@@ -1,7 +1,6 @@
 # ESP32-Based Predictive Motor Maintenance
 
 **Project Name:** ESP32-Based Predictive Motor Maintenance
-
 **Domain:** Embedded Systems and Internet of Things (IoT)  
 **Platform:** ESP32  
 **Programming Language:** Embedded C/C++  
