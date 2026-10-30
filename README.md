@@ -1,7 +1,7 @@
 
 # ESP32-Based Predictive Motor Maintenance
 
-**Project Name:** MOTORGUARD AI  
+**Project Name:** ESP32-Based Predictive Motor Maintenance
 **Domain:** Embedded Systems and Internet of Things (IoT)  
 **Platform:** ESP32  
 **Programming Language:** Embedded C/C++  
@@ -108,7 +108,7 @@ The values are simulated and are not actual sensor measurements.
 ## 10. Project Team
 
 - Mohammad Reyhan
-- Syed Faizan
+- Syed Mohammed Faizan
 - Amaan Pasha Shaikh
 
 **Institution:** Koneru Lakshmaiah Education Foundation  
