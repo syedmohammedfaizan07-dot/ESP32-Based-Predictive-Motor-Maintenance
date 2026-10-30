@@ -1,4 +1,3 @@
-
 # ESP32-Based Predictive Motor Maintenance
 
 **Project Name:** ESP32-Based Predictive Motor Maintenance
