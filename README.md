@@ -140,6 +140,7 @@ It illustrates the proposed integration of:
 
 ---
 
-## MOTORGUARD AI
+**ESP32-Based Predictive Motor Maintenance
 
-**Predict Today, Prevent Tomorrow.**
+*Vibration analysis and anomaly detection for a low-cost embedded IoT
+solution.*
